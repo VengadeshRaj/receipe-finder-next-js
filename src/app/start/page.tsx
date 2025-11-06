@@ -7,10 +7,10 @@ export default function HomePage() {
       <div className="relative flex flex-col items-center justify-center h-full text-white text-center gap-5">
         <h1 className="text-3xl">Select your catogory </h1>
         <Link href="mealtype" className="bg-transparent px-4 py-1 rounded mt-5">
-          Meal Type
+          🥄 Meal Type
         </Link>
         <Link href="cuisine" className="bg-transparent px-4 py-1 rounded mt-5">
-          Cuisine
+          🥄 Cuisine
         </Link>
       </div>
     </div>
