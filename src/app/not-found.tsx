@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function HomePage() {
+export default function NotFound() {
   return (
     <div className="font-sans flex flex-col items-center bg-gray-400 text-white h-screen justify-center  font-bold">
       <h1 className="text-3xl">Sorry 😟 we could not find what you're searching for this moment.</h1>

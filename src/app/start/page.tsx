@@ -11,7 +11,7 @@ export default function HomePage() {
           className="flex flex-row text-3xl gap-2 bg-transparent px-4 py-1 rounded"
         >
           <span>🥄</span>{" "}
-          <div className="hover:underline hover:green">Meal Type</div>
+          <div className="hover:underline">Meal Type</div>
         </Link>
         <Link
           href="food-type"
