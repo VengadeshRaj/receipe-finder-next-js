@@ -20,7 +20,7 @@ export default function HomePage() {
           <span>🥄</span> <div className="hover:underline">Food Type</div>
         </Link>
         <Link
-          href="foodtype"
+          href="cuisine"
           className="flex flex-row text-3xl gap-2 bg-transparent px-4 py-1 rounded"
         >
           <span>🥄</span> <div className="hover:underline">Cuisine</div>
